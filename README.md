@@ -1,7 +1,7 @@
 🎵 Spotify Playlist Analysis Project
 
 📖 Project Overview
-This project was created solely to understand and gain a deeper knowledge of advanced Python concepts, specifically working with APIs. The project involves analyzing a playlist of the top 50 songs fetched online using the Spotify API. The playlist data, including song details, album information, artist data, popularity, and track duration, is accessed by integrating Spotify's Web API through the Spotipy library. This project focuses on how to extract, process, and analyze data from a real-world service, such as Spotify, to uncover trends and insights.
+- This project was created solely to understand and gain a deeper knowledge of advanced Python concepts, specifically working with APIs. The project involves analyzing a playlist of the top 50 songs fetched online using the Spotify API. The playlist data, including song details, album information, artist data, popularity, and track duration, is accessed by integrating Spotify's Web API through the Spotipy library. This project focuses on how to extract, process, and analyze data from a real-world service, such as Spotify, to uncover trends and insights.
 
 🎯 Objectives
 - Understand Song Popularity: Identify the most popular songs within the top 50 playlist and determine what makes them stand out.
