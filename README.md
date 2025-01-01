@@ -34,7 +34,8 @@ The dataset fetched from the Spotify API includes the following columns:
 - Genre: The genre of the song or album.
 
 ## 💻 Code Overview
-The code uses the Spotipy library to fetch data from Spotify's API and pandas for data manipulation. The project is built in a Jupyter notebook environment for easy exploration and analysis.
+The code uses the Spotipy library to fetch data from Spotify's API and pandas for data manipulation. 
+- The project is built in a Jupyter notebook environment for easy exploration and analysis.
 
 ## 📝 Steps:
 - API Integration: Set up the Spotipy library to access Spotify’s Web API and fetch data for the top 50 songs.
@@ -52,6 +53,6 @@ The code uses the Spotipy library to fetch data from Spotify's API and pandas fo
 A Spotify Developer Account must be created to access the API. After creating an account, you will need to generate a Client ID and Client Secret ID from the Spotify Dashboard.
 These credentials should be added to the code to authenticate and access the Spotify API. Ensure that you replace the placeholders for CLIENT_ID and CLIENT_SECRET in the script with your own credentials before running the code.
 
-🚀 Project Significance
+## 🚀 Project Significance
 
 This project is an excellent exercise for learning how to interact with APIs, specifically Spotify's API, and diving into advanced Python concepts such as data extraction, processing, and analysis. It helps in understanding how data from real-world services can be used to extract meaningful insights and trends. Additionally, it serves as an introduction to integrating APIs with Python and applying data analysis techniques to music and entertainment data.
